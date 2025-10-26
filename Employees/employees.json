@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "fullName": "Alyssa Martinez",
+    "email": "alyssa.martinez@company.com",
+    "job": "UI/UX Designer",
+    "imageFilename": "alyssa"
+  },
+  {
+    "id": 2,
+    "fullName": "Bob Anderson",
+    "email": "bob.anderson@company.com",
+    "job": "Software Engineer",
+    "imageFilename": "bob"
+  },
+  {
+    "id": 3,
+    "fullName": "Brenda Thompson",
+    "email": "brenda.thompson@company.com",
+    "job": "Product Manager",
+    "imageFilename": "brenda"
+  },
+  {
+    "id": 4,
+    "fullName": "Earl Jackson",
+    "email": "earl.jackson@company.com",
+    "job": "DevOps Engineer",
+    "imageFilename": "earl"
+  },
+  {
+    "id": 5,
+    "fullName": "Emmeth Williams",
+    "email": "emmeth.williams@company.com",
+    "job": "Data Scientist",
+    "imageFilename": "emmeth"
+  },
+  {
+    "id": 6,
+    "fullName": "Franklin Davis",
+    "email": "franklin.davis@company.com",
+    "job": "Backend Developer",
+    "imageFilename": "franklin"
+  },
+  {
+    "id": 7,
+    "fullName": "James Rodriguez",
+    "email": "james.rodriguez@company.com",
+    "job": "Frontend Developer",
+    "imageFilename": "james"
+  },
+  {
+    "id": 8,
+    "fullName": "John Smith",
+    "email": "john.smith@company.com",
+    "job": "Team Lead",
+    "imageFilename": "john"
+  },
+  {
+    "id": 9,
+    "fullName": "Lisa Chen",
+    "email": "lisa.chen@company.com",
+    "job": "QA Engineer",
+    "imageFilename": "lisa"
+  },
+  {
+    "id": 10,
+    "fullName": "Mike Johnson",
+    "email": "mike.johnson@company.com",
+    "job": "System Architect",
+    "imageFilename": "mike"
+  },
+  {
+    "id": 11,
+    "fullName": "Rakesh Patel",
+    "email": "rakesh.patel@company.com",
+    "job": "Full Stack Developer",
+    "imageFilename": "rakesh"
+  },
+  {
+    "id": 12,
+    "fullName": "Tessa Brown",
+    "email": "tessa.brown@company.com",
+    "job": "Scrum Master",
+    "imageFilename": "tessa"
+  }
+]
